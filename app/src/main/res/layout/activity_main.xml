@@ -22,7 +22,7 @@
         android:text="@string/i_am_poor"
         android:textAlignment="center"
         android:textColor="@android:color/background_dark"
-        android:textSize="40sp" />
+        android:textSize="50sp" />
 
     <ImageView
         android:id="@+id/imageView"
